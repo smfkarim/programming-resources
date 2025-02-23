@@ -86,7 +86,7 @@
 🛡 **Learn how to secure applications and networks.**
 - 🔥 **[Stanford Cryptography Course](https://www.coursera.org/course/crypto)** – Learn **modern cryptography**.
 - 🎯 **[CS50's Cybersecurity](https://cs50.harvard.edu/cybersecurity/)** – Security **fundamentals**.
-- 🎲 **[Bug Bounty Blue Print](https://blog.securitybreached.org/2023/08/18/bug-bounty-blueprint-a-beginners-guide/)** - Bug Bounty ** Basic To Advance ** 
+- 🎲 **[Bug Bounty Blue Print](https://blog.securitybreached.org/2023/08/18/bug-bounty-blueprint-a-beginners-guide/)** - Bug Bounty **Basic To Advance** 
 
 ---
 
